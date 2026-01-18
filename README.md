@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Computer Engineer | Hardware Systems Tech | Hardware Engineer Intern | Video Compressi
+
+- 🔭 I’m currently working on Embedded design project
+- 🌱 I’m currently learning Python
+
+
 <!--
 **VictorLanceLuz/VictorLanceLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
