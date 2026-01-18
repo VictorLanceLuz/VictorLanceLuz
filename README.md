@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Computer Engineer | Hardware Systems Tech | Hardware Engineer Intern | Video Compressi
+Computer Engineer Graduate | Hardware Systems Tech | Hardware Engineer Co-op | Software Video Compression Co-op
 
-- 🔭 I’m currently working on Embedded design project
+- 🔭 I’m currently working on Embedded System
 - 🌱 I’m currently learning Python
 
 
