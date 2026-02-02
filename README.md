@@ -3,7 +3,7 @@
 Computer Engineer Graduate | Hardware Systems Tech | Hardware Engineer Co-op | Software Video Compression Co-op
 
 - 🔭 I’m currently working on Embedded System
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & C/C++
 
 
 <!--
