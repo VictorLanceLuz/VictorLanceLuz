@@ -4,7 +4,7 @@ Computer Engineer Graduate | Hardware Systems Tech | Hardware Engineering Co-op 
 
 - 🔭 I’m currently working on embedded systems.
 - 🌱 I’m currently learning modern C++.
-- 👯 I’m looking to collaborate on ... Unreal Engine 5 game development.
+- 👯 I’m looking to collaborate on Unreal Engine 5 game development.
 
 
 <!--
