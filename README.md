@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-Computer Engineer Graduate | Hardware Systems Tech | Hardware Engineer Co-op | Software Video Compression Co-op
+Computer Engineer Graduate | Hardware Systems Tech | Hardware Engineering Co-op | Software Video Compression Co-op
 
-- 🔭 I’m currently working on Embedded System
-- 🌱 I’m currently learning Python & C/C++
+- 🔭 I’m currently working on embedded systems.
+- 🌱 I’m currently learning modern C++.
+- 👯 I’m looking to collaborate on ... Unreal Engine 5 game development.
 
 
 <!--
