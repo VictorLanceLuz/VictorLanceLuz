@@ -2,10 +2,10 @@
 
 ### Victor Lance Luz
 
-Computer Engineering Graduate @ Simon Fraser University;
-Hardware Systems Tech @ Motion Metric;
-Hardware Engineering Co-op @ Arlo Technologies; 
-Software Video Compression Co-op @ Intel Corporation;
+Computer Engineering Graduate @ Simon Fraser University.  
+Hardware Systems Tech @ Motion Metric.  
+Hardware Engineering Co-op @ Arlo Technologies.  
+Software Video Compression Co-op @ Intel Corporation.  
 
 - 🔭 I’m currently working on embedded systems in the mining industry.
 - 🌱 I’m currently learning modern C++.
