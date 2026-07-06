@@ -9,9 +9,9 @@ Software Video Compression Co-op @ Intel Corporation.
 
 - 🔭 I’m currently working on embedded systems in the mining industry.
 - 🌱 I’m currently learning modern C++.
-- 👯 I’m looking to collaborate on video game development with Unreal Engine 5.
-
-
+- 👯 I’m looking to collaborate on project portfolio building.
+- 📫 How to reach me: same as github profile name but add @outlook.com suffix.
+- 😄 Pronouns: he/him
 <!--
 **VictorLanceLuz/VictorLanceLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
