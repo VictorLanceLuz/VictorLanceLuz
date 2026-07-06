@@ -10,7 +10,7 @@ Software Video Compression Co-op @ Intel Corporation.
 - 🔭 I’m currently working on embedded systems in the mining industry.
 - 🌱 I’m currently learning modern C++.
 - 👯 I’m looking to collaborate on project portfolio building.
-- 📫 How to reach me: same as github profile name but add @outlook.com suffix.
+- 📫 How to reach me: add a @outlook.com suffix to my GitHub username.
 - 😄 Pronouns: he/him
 <!--
 **VictorLanceLuz/VictorLanceLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
