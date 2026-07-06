@@ -3,7 +3,7 @@
 ### Victor Lance Luz
 
 Computer Engineering Graduate @ Simon Fraser University.  
-Hardware Systems Tech @ Motion Metric.  
+Hardware Systems Tech @ WEIR Motion Metrics.  
 Hardware Engineering Co-op @ Arlo Technologies.  
 Software Video Compression Co-op @ Intel Corporation.  
 
